@@ -1,6 +1,6 @@
 package leetcode;
 import java.util.Hashtable;
-//Two Sum
+//Two Sum 888
 //https://leetcode.com/problems/two-sum/description/
 public class Solution_20170905_1 {
 	public static int[] twoSum(int[] nums, int target) {
